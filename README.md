@@ -1,5 +1,6 @@
 # Java
-Cours, exercices, projets
+
+Création de notre première classe
 
 
 ```java
